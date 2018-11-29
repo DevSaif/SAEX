@@ -1,4 +1,4 @@
-{"version_code":451205,"content":"
+{"version_code":452560,"content":"
 <p>تحديث 3.00</p>
 
 <li> اضافة خيار لاصلاح الفراغ الموجود اعلى الشاشة عند تغير الواجهة</li>
@@ -33,5 +33,5 @@
 
 
 
-","url":"http://www.devsaif.com/2018/11/SAWhatsApp-V3.00.html"
+","url":"http://www.saif-mods.com/2018/10/SAWhatsApp-3.00.html"
 }
