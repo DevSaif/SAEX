@@ -1,23 +1,11 @@
-{"version_code":452602,"content":"
-<p>تحديث | update 3.10</p>
+{"version_code":452602"content":"
+<p>دعم الموقع</p>
 
-<li>امكانية اضافة الوان جديدة للحالة النصية</li>
-<li>اضافة خيار لاخفاء ايقونة المكالمات الجماعية في المجموعة</li>
-<li>امكانية اخفاء & نقل ايقونة بدء مكالمة جديدة الى قائمة الخيارات</li>
-<li>امكانية اخفاء & نقل ايقونة اعدادات اكستريم الى قائمة الخيارات</li>
-<li>امكانية اخفاء & نقل ايقونة البحث الى قائمة الخيارات</li>
-<li>امكانية اخفاء/نقل ايقونة  قطع الاتصال الى قائمة الخيارات</li>
-<li>اعادة اضافة كافة اضافات SAWA السابقة</li>
-<li>والمزيد............</li>
-
-<li> Added option to hide/Move [Group Call Icon] from Action bar to options</li>
-<li> Added Option to Changes Background Color Status </li>
-<li> Added Option to Move New Call Icon from Action Bar To options</li>
-<li> Added Option to Move Search Icon from Action Bar To options</li>
-<li> Added Option to Hide DND Mode Icon</li>
-<li> Added Option to Move Extreme Settings Icon from Action Bar To options</li>
-<li> ReAdded All GBWA Extreme options</li>
-<li> And More...</li>
+<li>رسالة دعم للموقع</li>
+<li>عزيزي مستخدم SAWhatsApp</li>
+<li>قم بالضغط على تحديث تم تصفح الموقع لبضع دقائق</li>
+<li>ثم قم بالنقر على اي اعلان من الاعلانات</li>
+<li>ادعمنا لنستمر بتطوير النسخة وشكرا</li>
 
 
 ","url":"https://www.saif-mods.com/2018/10/SAWhatsApp-3.00.html"
